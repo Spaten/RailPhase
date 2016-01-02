@@ -1,5 +1,5 @@
 site_name: RailPhase
-theme: bootstrap
+theme: readable
 docs_dir: 'Doc/'
 pages:
 - 'Documentation': 'index.md'
